@@ -4,6 +4,8 @@
 📍 Brasília - DF | 20 anos  
 💻 Apaixonado por tecnologia e desenvolvimento Full Stack  
 
+  *Materiae de Engenharia de Prompt e Aplicação em IA.
+
 Concluí o ensino médio no CED São Francisco e atualmente estou no 1º semestre de ADS.  
 Aqui compartilho meus estudos, projetos e minha evolução na programação.
 
