@@ -11,7 +11,7 @@ Aqui compartilho meus estudos, projetos e minha evolução na programação.
 
    *Sempre buscando aprender, evoluir, ser organizado e criar novas soluções através da tecnologia.
 
-## 🚀 Habilidades Técnicas
+## 🚀 Habilidades Técnicas Iniciantes
 
 * Python
 * Git & GitHub
