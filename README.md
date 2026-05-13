@@ -9,4 +9,4 @@
 Concluí o ensino médio no CED São Francisco e atualmente estou no 1º semestre de ADS.  
 Aqui compartilho meus estudos, projetos e minha evolução na programação.
 
-🚀 Sempre buscando aprender, evoluir e criar novas soluções através da tecnologia.
+🚀 Sempre buscando aprender, evoluir, ser organizado e criar novas soluções através da tecnologia.
